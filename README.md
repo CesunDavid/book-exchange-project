@@ -37,3 +37,9 @@ Funciones mínimas necesarias:
 ## 4. Métrica de Éxito
 
 El MVP será exitoso si los usuarios logran publicar e intercambiar material fácilmente dentro de la plataforma y se realizan al menos varios intercambios durante las pruebas iniciales.
+
+## Tablero Jira
+
+Link del tablero:
+
+https://cesunbc-team-5puntodventa.atlassian.net/?continue=https%3A%2F%2Fcesunbc-team-5puntodventa.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10033&atlOrigin=eyJpIjoiNzdhNmI0MjMzMmQ2NGM2YmE1ZTUzYTZkZjQ0NDM3ZTQiLCJwIjoiamlyYS1jb3JlIn0
