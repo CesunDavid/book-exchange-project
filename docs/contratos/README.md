@@ -1,4 +1,5 @@
 Arquitectura API - Book Exchange
+
 Registro de Usuario
 Endpoint:
 
