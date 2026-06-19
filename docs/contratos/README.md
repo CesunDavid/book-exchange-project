@@ -1,6 +1,6 @@
-Arquitectura API - Book Exchange
+# Arquitectura API - Book Exchange
 
-Registro de Usuario
+## Registro de Usuario
 Endpoint:
 
 POST /usuarios
@@ -11,7 +11,7 @@ JSON:
 
 { "nombre": "Juan Perez", "correo": "juan@gmail.com", "contrasena": "12345678" }
 
-Publicar Libro
+## Publicar Libro
 Endpoint:
 
 POST /libros
@@ -22,9 +22,23 @@ JSON:
 
 { "titulo": "Python para Principiantes", "autor": "Carlos Ruiz", "categoria": "Programacion", "descripcion": "Libro en buen estado", "estado": "Disponible" }
 
-Buscar Libros
+## Buscar Libros
 Endpoint:
 
 GET /libros
 
 Motivo: Obtiene la lista de libros publicados.
+
+##  Confirmar Intercambio
+
+
+Endpoint:
+POST /intercambios
+
+JSON enviado:
+
+{
+  "ubicacionMasCercana": "Biblioteca Central",
+  "intercambiarPor": "Bases de Datos",
+  "dejarEn": "Edificio A - Recepción"
+}
