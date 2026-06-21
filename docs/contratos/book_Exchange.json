@@ -1,0 +1,17 @@
+registro_usuario.json
+
+{
+  "nombre": "Juan Perez",
+  "correo": "juan@gmail.com",
+  "contrasena": "12345678"
+}
+
+publicar_libro.json
+
+{
+  "titulo": "Python para Principiantes",
+  "autor": "Carlos Ruiz",
+  "genero": "Informatica",
+  "descripcion": "Libro en buen estado",
+  "año": "2012"
+}
